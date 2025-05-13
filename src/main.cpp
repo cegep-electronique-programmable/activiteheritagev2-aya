@@ -1,5 +1,5 @@
-/*
- * Nom de fichier 
+
+ /* Nom de fichier 
  *      main.cpp
  * 
  * Sommaire
@@ -12,11 +12,11 @@
  *      7 mai 2025
  *  
  *aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-
+/**/
 #include <Arduino.h>
 #include <iostream>
 #include "Etudiant.h"
-
+#include "EtudiantFils.h"
 //********************************************************************************
 // Déclaration des fonctions
 //********************************************************************************
