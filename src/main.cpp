@@ -6,7 +6,7 @@
  *      Fichier de départ pour le projet ActiviteHeritageV2
  * 
  * Auteur 
- *      Maxime Champagne
+ *      MOHAMED YASSINE YAHYAOUI
  * 
  * Date de création
  *      7 mai 2025
