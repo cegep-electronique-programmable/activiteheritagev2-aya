@@ -6,11 +6,11 @@
  *      Fichier de départ pour le projet ActiviteHeritageV2
  * 
  * Auteur 
- *      MOHAMED YASSINE YAHYAOUI
+ *      MOHAMED YASSINE YAHYAOUI & AYMAN DABOUN & ADNANE LAHMIMSI
  * 
  * Date de création
  *      7 mai 2025
- *  
+ */  
 
 
 
