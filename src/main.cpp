@@ -1,22 +1,23 @@
-/*
- * Nom de fichier 
+
+ /* Nom de fichier 
  *      main.cpp
  * 
  * Sommaire
  *      Fichier de départ pour le projet ActiviteHeritageV2
  * 
  * Auteur 
- *      Maxime Champagne
+ *      MOHAMED YASSINE YAHYAOUI
  * 
  * Date de création
  *      7 mai 2025
  *  
- */
+
+
 
 #include <Arduino.h>
 #include <iostream>
 #include "Etudiant.h"
-
+#include "EtudiantFils.h"
 //********************************************************************************
 // Déclaration des fonctions
 //********************************************************************************
