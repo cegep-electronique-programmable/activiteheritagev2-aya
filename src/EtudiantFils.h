@@ -104,6 +104,32 @@ public:
 
 
 
+//--------------------------Classe administration------------------------------------
+
+class EtudiantAdmin : public Etudiant {
+private:
+    float coutSession1;
+
+public:
+    void setMatricule(int matricule) {
+        if (std::to_string(matricule)[0] == '5') {
+            Etudiant::setMatricule(matricule);
+        } else {
+            std::cout << "INVALIDE: La matricule d'administration doit commencer par 5" << std::endl;
+        }
+    }
+
+    void setCoutSession1(float cost) {
+        coutSession1 = cost;
+    }
+
+    float getCoutSession1() {
+        return coutSession1;
+    }
+};
+
+
+
 
 
 #endif
