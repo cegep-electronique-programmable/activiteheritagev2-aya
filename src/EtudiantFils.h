@@ -21,6 +21,7 @@ public:
         } else 
         {
             std::cout << "Erreur: Votre matricule TGE doit commencer par 2." << std::endl; //message erreur
+            matricule = 0;
         }
     }
 //-----------------------------------------------------
@@ -53,6 +54,7 @@ public:
         } else 
         {
             std::cout << "Erreur: Votre matricule Musique doit commencer par 3." << std::endl; //message erreur
+            matricule = 0;
         }
     }
 //-----------------------------------------------------
@@ -85,6 +87,7 @@ public:
         } else 
         {
             std::cout << "Erreur: Votre matricule ArtLettre ne commence pas par 4." << std::endl; //message erreur
+            matricule = 0;
         }
     }
 //-----------------------------------------------------
@@ -116,6 +119,7 @@ public:
             Etudiant::setMatricule(matricule);
         } else {
             std::cout << "INVALIDE: La matricule d'administration doit commencer par 5" << std::endl;
+            matricule = 0;
         }
     }
 
